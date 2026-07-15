@@ -1,0 +1,6 @@
+{
+  "name": "Stefan Zweig",
+  "description": "A premium literary tribute and comprehensive digital showcase of Stefan Zweig's life, classic works, legacy, historical timeline, and rich philosophical quotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
